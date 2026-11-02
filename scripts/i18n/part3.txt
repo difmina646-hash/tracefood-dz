@@ -1,0 +1,230 @@
+pub.again|Réessayer avec un autre code|حاول برمز آخر
+pub.anon|Vous pouvez écrire sans compte|يمكنك الكتابة دون حساب
+pub.badCode|Code invalide. Saisissez l'identifiant imprimé sous le QR code ou collez le lien.|رمز غير صالح. أدخل المعرّف المطبوع تحت رمز QR أو الصق الرابط.
+pub.batch|Lot|الدفعة
+pub.batchNo|N° de lot|رقم الدفعة
+pub.certs|Certifications vérifiées par la plateforme|شهادات موثَّقة من المنصة
+pub.consult|Consulter|اطّلع
+pub.contact|E-mail (facultatif, pour être recontacté)|البريد الإلكتروني (اختياري، لإعادة الاتصال بك)
+pub.disclaimerShort|Les informations sont déclarées par le fabricant. Un QR code ne garantit pas à lui seul l'authenticité ni la sécurité d'un produit.|المعلومات مصرَّح بها من المصنّع. رمز QR وحده لا يضمن أصالة المنتج ولا سلامته.
+pub.enterCode|Saisir l'identifiant|إدخال المعرّف
+pub.error|Service momentanément indisponible|الخدمة غير متاحة مؤقتًا
+pub.expired|Date de péremption dépassée|انتهت مدة الصلاحية
+pub.expiry|À consommer avant|يُستهلك قبل
+pub.f1|Fabricant|المصنّع
+pub.f1d|Qui a fabriqué le produit, avec quelles certifications vérifiées.|من صنع المنتج وبأي شهادات موثَّقة.
+pub.f2|Lot et dates|الدفعة والتواريخ
+pub.f2d|Date de fabrication et de péremption du lot.|تاريخ تصنيع الدفعة وانتهاء صلاحيتها.
+pub.f3|Où l'acheter|أين تشتريه
+pub.f3d|Points de vente où le lot est disponible, et promotions.|نقاط البيع التي تتوفر فيها الدفعة والعروض الترويجية.
+pub.feedback|Avis, question ou signalement|رأي أو سؤال أو بلاغ
+pub.inactive|Ce QR code n'est plus actif|رمز QR هذا لم يعد نشطًا
+pub.inactiveHint|Le fabricant a désactivé ce code. Ne consommez pas le produit en cas de doute et contactez le fabricant.|عطّل المصنّع هذا الرمز. لا تستهلك المنتج عند الشك واتصل بالمصنّع.
+pub.kind|Nature|الطبيعة
+pub.linked|Lié à votre compte consommateur|مرتبط بحساب المستهلك الخاص بك
+pub.manufacturer|Fabricant|المصنّع
+pub.message|Message|الرسالة
+pub.myspace|Mon espace|مساحتي
+pub.noCamera|Caméra inaccessible. Autorisez l'accès à la caméra (HTTPS ou localhost requis).|تعذّر الوصول إلى الكاميرا. اسمح بالوصول (يلزم HTTPS أو localhost).
+pub.noCerts|Aucune certification vérifiée n'est publiée pour ce fabricant.|لا توجد شهادة موثَّقة منشورة لهذا المصنّع.
+pub.noDetector|Le scan par caméra n'est pas pris en charge par ce navigateur (essayez Chrome sur Android). Saisissez l'identifiant à la place.|مسح الكاميرا غير مدعوم في هذا المتصفح (جرّب Chrome على أندرويد). أدخل المعرّف بدلًا من ذلك.
+pub.noStores|Aucun point de vente référencé n'a actuellement ce lot en stock.|لا توجد نقطة بيع مدرجة تحتفظ حاليًا بهذه الدفعة في مخزونها.
+pub.placeholder|Identifiant ou lien du QR code|معرّف رمز QR أو رابطه
+pub.pro|Espace professionnel|الفضاء المهني
+pub.process|Étapes de fabrication|مراحل التصنيع
+pub.producedAt|Fabriqué le|تاريخ التصنيع
+pub.promos|Promotions|العروض الترويجية
+pub.rating|Note|التقييم
+pub.review|Lot en cours de vérification|الدفعة قيد التحقق
+pub.safetyHint|En cas de malaise ou de doute sanitaire, consultez un professionnel de santé. Ce signalement est transmis au fabricant.|عند الشعور بتوعك أو الشك الصحي استشر مختصًا صحيًا. يُرسل هذا البلاغ إلى المصنّع.
+pub.scanCamera|Scanner avec la caméra|المسح بالكاميرا
+pub.search|Rechercher|بحث
+pub.send|Envoyer|إرسال
+pub.statusOk|Lot déclaré conforme par le fabricant|دفعة مصرَّح بمطابقتها من المصنّع
+pub.statusOkHint|À consommer avant la date indiquée. Respectez les conditions de conservation de l'emballage.|يُستهلك قبل التاريخ المبيَّن. التزم بشروط الحفظ المذكورة على العبوة.
+pub.sub|Scannez le QR code de l'emballage ou saisissez son identifiant pour découvrir le fabricant, les dates du lot et où le trouver.|امسح رمز QR على العبوة أو أدخل معرّفه لتعرف المصنّع وتواريخ الدفعة وأين تجدها.
+pub.thanks|Merci. Votre message a été transmis au fabricant.|شكرًا. تم إرسال رسالتك إلى المصنّع.
+pub.title|Que savez-vous de votre produit ?|ماذا تعرف عن منتجك؟
+pub.unknown|QR code inconnu|رمز QR غير معروف
+pub.unknownHint|Cet identifiant n'existe pas. Vérifiez le code ou méfiez-vous d'un emballage douteux.|هذا المعرّف غير موجود. تحقق من الرمز أو احذر من عبوة مشبوهة.
+pub.unknownStatus|Statut du lot indéterminé.|حالة الدفعة غير محدّدة.
+pub.varieties|Variétés|الأصناف
+pub.where|Où trouver ce lot|أين تجد هذه الدفعة
+pub.yourMessage|Votre message|رسالتك
+qc.attach|Rapports de laboratoire|تقارير المخبر
+qc.block|Bloquer|حظر
+qc.blockBatchMsg|Le lot fini ne pourra plus être expédié ; la page QR publique affichera « en cours de vérification ».|لن يمكن شحن الدفعة النهائية، وستعرض صفحة QR العامة «قيد التحقق».
+qc.blockLotMsg|Le lot ne pourra plus être consommé en production.|لن يمكن استهلاك الدفعة في الإنتاج.
+qc.blockTitle|Bloquer ce lot ?|حظر هذه الدفعة؟
+qc.blocked|Bloqué|تم الحظر
+qc.decision|Décision|القرار
+qc.fail|Non conforme / négatif|غير مطابق / سلبي
+qc.new|Nouveau contrôle|مراقبة جديدة
+qc.noParams|Aucun paramètre configuré pour ce type de contrôle (voir « Paramètres qualité »). Vous pouvez enregistrer une décision sans mesure.|لا توجد معايير مهيّأة لهذا النوع من المراقبة (انظر «معايير الجودة»). يمكنك تسجيل قرار دون قياسات.
+qc.noRelease|Seul un rôle qualité habilité peut libérer, bloquer ou rejeter.|لا يمكن إلا لدور جودة مخوَّل التحرير أو الحظر أو الرفض.
+qc.none|Aucun contrôle enregistré.|لا توجد مراقبات مسجَّلة.
+qc.pass|Conforme / positif|مطابق / إيجابي
+qc.pendingBatch|Ce lot fini ne peut pas être stocké ni expédié tant qu'il n'est pas libéré.|لا يمكن تخزين هذه الدفعة النهائية ولا شحنها قبل تحريرها.
+qc.pendingLot|Ce lot ne peut pas être utilisé en production tant qu'il n'est pas libéré.|لا يمكن استخدام هذه الدفعة في الإنتاج قبل تحريرها.
+qc.reason|Motif (obligatoire)|السبب (إلزامي)
+qc.reasonMin|Saisissez au moins 3 caractères.|أدخل 3 أحرف على الأقل.
+qc.recorded|Contrôle enregistré|تم تسجيل المراقبة
+qc.reviewer|Décision par|القرار من
+qc.title|Contrôle qualité|مراقبة الجودة
+qp.notValidated|Non validé|غير مصدَّق
+qp.validate|Valider|تصديق
+qp.validated|Limites validées|تم تصديق الحدود
+qp.validation|Validation|التصديق
+qp.warn|La plateforme n'impose aucune limite réglementaire. Les valeurs doivent être définies puis validées par une personne qualifiée. Un paramètre non validé est signalé.|لا تفرض المنصة أي حدود تنظيمية. يجب أن تحدّد القيم ثم يصدّق عليها شخص مؤهَّل. يُشار إلى المعيار غير المصدَّق.
+qp.warnTitle|Limites de qualité configurables|حدود جودة قابلة للضبط
+qr.afterRelease|Le QR code est généré automatiquement à la libération du lot fini.|يُنشأ رمز QR تلقائيًا عند تحرير الدفعة النهائية.
+qr.copied|Lien copié|تم نسخ الرابط
+qr.copy|Copier le lien|نسخ الرابط
+qr.deactivate|Désactiver|تعطيل
+qr.deactivateMsg|Les consommateurs verront « QR code inactif ». Action à réserver aux cas de retrait.|سيرى المستهلكون «رمز QR غير نشط». يُحصر الإجراء في حالات السحب.
+qr.deactivated|QR code désactivé|تم تعطيل رمز QR
+qr.inactive|Inactif|غير نشط
+qr.note|Le QR code ne contient que l'adresse publique : aucune donnée confidentielle. Il n'atteste pas à lui seul l'authenticité du produit.|رمز QR يحتوي العنوان العام فقط دون أي بيانات سرية. ولا يثبت وحده أصالة المنتج.
+qr.preview|Voir la page publique|عرض الصفحة العامة
+qr.print|Imprimer l'étiquette|طباعة الملصق
+qr.scans|Scans|مرات المسح
+qr.title|QR code public|رمز QR العام
+rec.autoLot|Laisser vide pour générer automatiquement|اتركه فارغًا للتوليد التلقائي
+rec.bl|Bon de livraison|وصل التسليم
+rec.by|Reçu par|استلمه
+rec.control|Contrôler|مراقبة
+rec.created|Réception enregistrée|تم تسجيل الاستلام
+rec.date|Date|التاريخ
+rec.datetime|Date et heure de réception|تاريخ ووقت الاستلام
+rec.delivery|Livraison|التسليم
+rec.done|Réception enregistrée|تم تسجيل الاستلام
+rec.expiry|Date de péremption|تاريخ انتهاء الصلاحية
+rec.internalLot|N° de lot interne|رقم الدفعة الداخلي
+rec.list|Liste des réceptions|قائمة الاستلامات
+rec.material|Matière première|المادة الأولية
+rec.new|Nouvelle réception|استلام جديد
+rec.newSub|Saisissez la livraison et un ou plusieurs lots reçus.|أدخل التسليم ودفعة أو أكثر مستلمة.
+rec.noSupplier|Aucun fournisseur|لا يوجد مورّد
+rec.noSupplierMsg|Créez d'abord un fournisseur et des matières premières dans les référentiels.|أنشئ أولًا موردًا ومواد أولية في البيانات الأساسية.
+rec.origin|Origine|المصدر
+rec.pendingNote|Les lots ci-dessous sont EN ATTENTE : effectuez le contrôle qualité pour les libérer avant production.|الدفعات أدناه قيد الانتظار: أجرِ مراقبة الجودة لتحريرها قبل الإنتاج.
+rec.prodDate|Date de production|تاريخ الإنتاج
+rec.sub|Réception des livraisons de matières premières : chaque ligne crée un lot en attente de contrôle.|استلام شحنات المواد الأولية: كل سطر ينشئ دفعة بانتظار المراقبة.
+rec.submit|Enregistrer la réception|حفظ الاستلام
+rec.supplier|Fournisseur|المورّد
+rec.supplierLot|N° de lot fournisseur|رقم دفعة المورّد
+rec.vehicle|Immatriculation du véhicule|ترقيم المركبة
+recipe.addIng|Ajouter un ingrédient|إضافة مكوّن
+recipe.ingredients|Ingrédients|المكوّنات
+recipe.new|Nouvelle recette|وصفة جديدة
+recipe.outQty|Quantité produite|الكمية المنتجة
+recipe.sub|Une recette définit les ingrédients pour une quantité produite ; elle sert d'aide lors de la création d'un lot.|تحدّد الوصفة المكوّنات لكمية منتجة، وتُستعمل مساعدًا عند إنشاء دفعة.
+recv.sub|Vérifiez un lot reçu : produit, dates, statut (bloqué par le fabricant ?) et expéditions concernées.|تحقق من دفعة مستلمة: المنتج والتواريخ والحالة (هل حظرها المصنّع؟) والشحنات المعنية.
+risk.addHazard|Ajouter un danger|إضافة خطر
+risk.cause|Cause|السبب
+risk.corrective|Action corrective|إجراء تصحيحي
+risk.hazard|Danger|الخطر
+risk.hazards|Dangers identifiés|المخاطر المحدّدة
+risk.isCcp|Point critique (CCP)|نقطة حرجة (CCP)
+risk.items|Dangers|المخاطر
+risk.likelihood|Probabilité (1–5)|الاحتمال (1–5)
+risk.limit|Limite critique|الحد الحرج
+risk.matrix|Matrice gravité × probabilité|مصفوفة الخطورة × الاحتمال
+risk.matrixHint|Score = gravité × probabilité (indicatif)|النتيجة = الخطورة × الاحتمال (إرشادية)
+risk.measure|Mesure de maîtrise|إجراء المراقبة
+risk.monitoring|Surveillance|الرصد
+risk.new|Nouvelle analyse|تحليل جديد
+risk.noItems|Aucun danger saisi|لم تُدخل مخاطر
+risk.scope|Périmètre|النطاق
+risk.score|Score|النتيجة
+risk.severity|Gravité (1–5)|الخطورة (1–5)
+risk.step|Étape|المرحلة
+risk.sub|Outil visuel d'aide à l'analyse des dangers (type HACCP). Il ne remplace pas une étude HACCP complète.|أداة بصرية تساعد على تحليل المخاطر (نمط HACCP). لا تغني عن دراسة HACCP كاملة.
+ship.cancel|Annuler|إلغاء
+ship.cancelMsg|La réservation de stock sera libérée.|سيُفرَج عن حجز المخزون.
+ship.carried|Transportée|منقولة
+ship.confirmReceive|Confirmer la réception|تأكيد الاستلام
+ship.confirmations|Confirmations|التأكيدات
+ship.damaged|Endommagé|تالف
+ship.deliver|Confirmer la livraison|تأكيد التسليم
+ship.delivered|Livré le|تاريخ التسليم
+ship.dir|Sens|الاتجاه
+ship.dispatch|Expédier (départ réel)|شحن (المغادرة الفعلية)
+ship.dispatched|Départ réel|المغادرة الفعلية
+ship.event|Signaler|إبلاغ
+ship.excursion|Écart(s) hors plage détecté(s).|تم رصد تجاوز(ات) خارج النطاق.
+ship.from|Départ|المغادرة
+ship.in|Reçue|واردة
+ship.incident|Incident de transport signalé|تم الإبلاغ عن حادث نقل
+ship.incidentWarn|Un incident met l'expédition en statut « Incident » et notifie l'expéditeur.|يضع الحادث الشحنة في حالة «حادث» ويُخطِر المرسل.
+ship.items|Lots expédiés|الدفعات المشحونة
+ship.msg|Message|الرسالة
+ship.new|Nouvelle expédition|شحنة جديدة
+ship.newSub|La planification réserve le stock ; le départ réel est confirmé par « Expédier ».|يحجز التخطيط المخزون، ويؤكَّد الانطلاق الفعلي بزر «شحن».
+ship.noStock|Aucun stock libéré et disponible sur ce site.|لا مخزون محرَّر ومتاح في هذا الموقع.
+ship.noTemp|Aucun relevé.|لا توجد قراءات.
+ship.none|Aucune expédition|لا توجد شحنات
+ship.notLinked|non lié|غير مرتبط
+ship.out|Envoyée|صادرة
+ship.partial|Réception partielle : un écart a été notifié à l'expéditeur.|استلام جزئي: أُخطر المرسل بالفرق.
+ship.pickFrom|Choisissez d'abord le site de départ.|اختر موقع المغادرة أولًا.
+ship.pickup|Confirmer l'enlèvement|تأكيد الاستلام من المرسل
+ship.plan|Planifier l'expédition|تخطيط الشحنة
+ship.planned|Départ prévu|المغادرة المخططة
+ship.receive|Réceptionner|استلام
+ship.receiveHint|Indiquez ce qui est réellement arrivé. Une réception ne peut être enregistrée qu'une seule fois.|بيّن ما وصل فعلًا. لا يمكن تسجيل الاستلام إلا مرة واحدة.
+ship.received|Réception enregistrée|تم تسجيل الاستلام
+ship.recv|Reçu|المستلم
+ship.route|Trajet|المسار
+ship.search|N° d'expédition|رقم الشحنة
+ship.searchDest|Rechercher un site destinataire…|ابحث عن موقع مستلم…
+ship.shipped|Expédié|المشحون
+ship.sub|Expéditions envoyées, reçues ou transportées par votre société.|شحنات أرسلتها شركتكم أو استلمتها أو نقلتها.
+ship.temp|Relevé température|قراءة الحرارة
+ship.tempHint|Définie par vos procédures ; les relevés hors plage déclenchent une alerte.|تحدّدها إجراءاتكم؛ القراءات خارج النطاق تطلق تنبيهًا.
+ship.tempLog|Températures relevées|درجات الحرارة المسجَّلة
+ship.tempRange|Plage de température de transport (°C)|نطاق حرارة النقل (°م)
+ship.timeline|Historique|السجل
+ship.to|Destination|الوجهة
+ship.tooMuch|Supérieur au disponible|أكبر من المتاح
+ship.transporter|Transporteur|الناقل
+trace.affBatches|Lots finis concernés|الدفعات النهائية المعنية
+trace.affLocations|Sites destinataires|المواقع المستلمة
+trace.affShipments|Expéditions|الشحنات
+trace.backward|Traçabilité amont|التتبّع صعودًا
+trace.batches|Lots finis|الدفعات النهائية
+trace.clickNode|Cliquez sur un élément du graphe pour voir ses détails.|انقر على عنصر في الرسم لعرض تفاصيله.
+trace.counted|Comptée|محسوبة
+trace.details|Détails|التفاصيل
+trace.dispatched|Quantité expédiée|الكمية المشحونة
+trace.emptyGraph|Aucun élément à afficher|لا عناصر للعرض
+trace.exposure|Exposition par site|التعرّض حسب الموقع
+trace.forward|Traçabilité aval|التتبّع نزولًا
+trace.fwd|Retransféré|أُعيد تحويله
+trace.graph|Graphe de traçabilité|رسم التتبّع
+trace.lotUsed|Qté du lot suspect|كمية الدفعة المشتبه بها
+trace.lots|Lots de matières premières|دفعات المواد الأولية
+trace.noExposure|Aucune livraison aval enregistrée|لا توجد تسليمات لاحقة مسجَّلة
+trace.noResult|Aucun lot trouvé.|لم يُعثر على دفعة.
+trace.notComparable|unités non comparables|وحدات غير قابلة للمقارنة
+trace.notDispatched|non partie — à annuler/bloquer|لم تغادر — يلزم إلغاؤها/حظرها
+trace.onHand|Encore en stock aval|ما زال في مخزون المصب
+trace.onHandAll|Stock aval|مخزون المصب
+trace.openNc|Ouvrir une non-conformité|فتح حالة عدم مطابقة
+trace.placeholder|N° de lot interne, lot fournisseur ou lot fini (min. 2 caractères)|رقم دفعة داخلي أو للمورّد أو منتج نهائي (حرفان على الأقل)
+trace.produced|Produit|المنتَج
+trace.qtyUsed|Qté utilisée|الكمية المستعملة
+trace.recv|Reçu|المستلم
+trace.selected|Lot sélectionné|الدفعة المحددة
+trace.share|Part des intrants|حصة المدخلات
+trace.start|Recherchez un lot pour démarrer|ابحث عن دفعة للبدء
+trace.startHint|Exemple : MP-DEMO-001 (lait cru) ou YG-DEMO-002 (yaourt).|مثال: MP-DEMO-001 (حليب خام) أو YG-DEMO-002 (زبادي).
+trace.stockNow|En stock|في المخزون
+trace.sub|Remontez des produits finis aux matières premières (amont) ou suivez un lot suspect jusqu'aux points de vente (aval).|اصعد من المنتجات النهائية إلى المواد الأولية (المنبع) أو تتبّع دفعة مشتبه بها حتى نقاط البيع (المصب).
+trace.suppliers|Fournisseurs|الموردون
+trace.unaccounted|Hors stock / vendu|خارج المخزون / مباع
+val.email|E-mail invalide|بريد إلكتروني غير صالح
+val.positive|Doit être > 0|يجب أن يكون أكبر من 0
+val.pwdDigit|Au moins un chiffre|رقم واحد على الأقل
+val.pwdLen|10 caractères minimum|10 أحرف على الأقل
+val.pwdLetter|Au moins une lettre|حرف واحد على الأقل

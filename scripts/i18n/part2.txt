@@ -1,0 +1,167 @@
+inv.adjust|Ajuster|تعديل
+inv.adjustHint|Justification obligatoire (≥ 5 caractères) — tracée dans l'audit.|التبرير إلزامي (5 أحرف على الأقل) — يُسجَّل في التدقيق.
+inv.allLoc|Tous les sites|كل المواقع
+inv.applyCount|Appliquer les écarts|تطبيق الفروقات
+inv.available|Disponible|المتاح
+inv.count|Inventaire / comptage|الجرد / العدّ
+inv.countHint|Saisissez la quantité comptée. Seules les lignes renseignées sont ajustées ; chaque écart est enregistré comme mouvement d'inventaire.|أدخل الكمية المعدودة. تُعدَّل الأسطر المملوءة فقط، ويُسجَّل كل فرق كحركة جرد.
+inv.countSaved|Inventaire enregistré|تم تسجيل الجرد
+inv.counted|Compté|المعدود
+inv.damage|Casse / perte|تلف / فقدان
+inv.dest|Site de destination (interne)|موقع الوجهة (داخلي)
+inv.empty|Aucun stock|لا مخزون
+inv.fefo|Ordre FEFO|ترتيب FEFO
+inv.fefoNote|Prélevez dans l'ordre ci-dessous. Les lots bloqués, périmés ou entièrement réservés sont exclus.|اسحب بالترتيب أدناه. تُستبعد الدفعات المحظورة أو المنتهية أو المحجوزة بالكامل.
+inv.fromTo|De → Vers|من ← إلى
+inv.location|Site|الموقع
+inv.moves|Mouvements|الحركات
+inv.newQty|Nouvelle quantité|الكمية الجديدة
+inv.reason|Motif|السبب
+inv.reserved|Réservé|المحجوز
+inv.sale|Sortie vente|خروج للبيع
+inv.search|Produit ou n° de lot|منتج أو رقم دفعة
+inv.stock|Stock|المخزون
+inv.sub|Stock par site et par lot, alertes de péremption et ordre de sortie FEFO (premier périmé, premier sorti).|المخزون حسب الموقع والدفعة، تنبيهات الصلاحية وترتيب الصرف FEFO (الأقرب انتهاءً يخرج أولًا).
+inv.system|Système|النظام
+inv.transfer|Transférer|تحويل
+inv.type|Mouvement|الحركة
+kpi.activeBatches|Lots en production / actifs|دفعات قيد الإنتاج / نشطة
+kpi.activeOffers|Offres actives|عروض نشطة
+kpi.activeShipments|Expéditions actives|شحنات نشطة
+kpi.answered|Demandes traitées|طلبات تمت معالجتها
+kpi.assigned|Expéditions assignées|شحنات مسندة
+kpi.availableInventory|Stock disponible (unités)|المخزون المتاح (وحدات)
+kpi.blockedBatches|Lots finis bloqués|دفعات نهائية محظورة
+kpi.delivered|Livraisons effectuées|تسليمات منجزة
+kpi.expiring|Lots proches de la péremption (≤3 j)|دفعات قاربت الانتهاء (≤3 أيام)
+kpi.expiringStock|Lots périmés / proches de la péremption|دفعات منتهية / قاربت الانتهاء
+kpi.incidents|Incidents transport|حوادث النقل
+kpi.incoming|Livraisons à réceptionner|شحنات بانتظار الاستلام
+kpi.newComplaints|Réclamations consommateurs (nouvelles)|شكاوى المستهلكين (جديدة)
+kpi.nonConformities|Non-conformités ouvertes|حالات عدم مطابقة مفتوحة
+kpi.openNc|Alertes de traçabilité / non-conformités|تنبيهات التتبّع / عدم المطابقة
+kpi.openRequests|Demandes à traiter|طلبات للمعالجة
+kpi.pendingControls|Contrôles en attente|مراقبات بانتظار التنفيذ
+kpi.pendingQuality|Contrôles qualité en attente|مراقبات جودة بانتظار التنفيذ
+kpi.promos|Promotions actives|عروض ترويجية نشطة
+kpi.rawMaterialLots|Lots de matières premières|دفعات المواد الأولية
+kpi.stockLines|Lignes de stock (par lot)|أسطر المخزون (حسب الدفعة)
+kpi.tempExc|Écarts de température|تجاوزات درجة الحرارة
+layout.demo|Données locales|بيانات محلية
+layout.searchLot|Rechercher un lot (MP-…, YG-…)|بحث عن دفعة (MP-…، YG-…)
+layout.theme|Thème|المظهر
+lot.blockedReason|Motif du blocage / rejet|سبب الحظر / الرفض
+lot.docs|Documents|الوثائق
+lot.info|Informations|معلومات
+lot.noDocs|Aucun document.|لا توجد وثائق.
+lot.notUsed|Pas encore utilisé en production.|لم تُستخدم بعد في الإنتاج.
+lot.reception|Réception|الاستلام
+lot.supplierLot|Lot fournisseur|دفعة المورّد
+lot.usedIn|Utilisé dans les lots finis|مستخدمة في الدفعات النهائية
+lots.remaining|Restant / reçu|المتبقي / المستلم
+lots.search|N° de lot interne ou fournisseur|رقم الدفعة الداخلي أو الخاص بالمورّد
+lots.sub|Lots de matières premières : statut qualité, quantités restantes, péremption.|دفعات المواد الأولية: حالة الجودة والكميات المتبقية والصلاحية.
+master.addSpec|Ajouter une spécification|إضافة مواصفة
+master.addVariant|Ajouter une variante|إضافة صنف
+master.locationsSub|Usines, entrepôts, centres de distribution et points de vente.|مصانع ومستودعات ومراكز توزيع ونقاط بيع.
+master.materialsSub|Matières premières et exigences de stockage.|المواد الأولية ومتطلبات تخزينها.
+master.parameter|Paramètre|المعيار
+master.productsSub|Produits finis. Le texte « public » est affiché aux consommateurs via le QR code.|المنتجات النهائية. النص «العام» يُعرض للمستهلكين عبر رمز QR.
+master.specs|Spécifications|المواصفات
+master.suppliersSub|Fournisseurs de matières premières (approuvés avant toute réception).|موردو المواد الأولية (معتمدون قبل أي استلام).
+master.transportersSub|Transporteurs. Liez un transporteur à une société inscrite pour qu'elle puisse confirmer les livraisons.|الناقلون. اربط الناقل بشركة مسجَّلة لتتمكن من تأكيد التسليمات.
+master.variants|Variantes|الأصناف
+mk.available|Quantité disponible|الكمية المتاحة
+mk.minQty|Qté min.|الكمية الدنيا
+mk.none|Aucune offre|لا توجد عروض
+mk.offersSub|Matières premières proposées aux fabricants.|مواد أولية معروضة على المصنّعين.
+mk.price|Prix unitaire (DZD)|سعر الوحدة (دج)
+mk.q|Produit, spécification…|منتج، مواصفة…
+mk.request|Demander|طلب
+mk.requestsSub|Demandes reçues des fabricants.|طلبات واردة من المصنّعين.
+mk.respond|Répondre|رد
+mk.response|Réponse|الرد
+mk.search|Offres|العروض
+mk.send|Envoyer|إرسال
+mk.sent|Demande envoyée|تم إرسال الطلب
+mk.sentTab|Mes demandes|طلباتي
+mk.specs|Spécifications techniques|المواصفات التقنية
+mk.sub|Trouvez des fournisseurs de matières premières et envoyez-leur une demande.|ابحث عن موردي المواد الأولية وأرسل لهم طلبًا.
+mk.techSheet|Fiche technique|بطاقة تقنية
+msg.from|De|من
+msg.new|Nouveau message|رسالة جديدة
+msg.sentTo|À|إلى
+msg.sub|Communication entre sociétés (fournisseurs, fabricants, transporteurs, distributeurs).|التواصل بين الشركات (موردون ومصنّعون وناقلون وموزّعون).
+msg.to|Destinataire|المستلم
+nc.applyHold|Appliquer le blocage|تطبيق الحظر
+nc.audit|Piste d'audit|مسار التدقيق
+nc.close|Clôturer|إغلاق
+nc.closeHint|Toutes les actions doivent être terminées ou annulées avant clôture.|يجب إنجاز جميع الإجراءات أو إلغاؤها قبل الإغلاق.
+nc.closure|Clôture|الإغلاق
+nc.created|Non-conformité enregistrée|تم تسجيل عدم المطابقة
+nc.description|Description|الوصف
+nc.detected|Détectée|تاريخ الاكتشاف
+nc.due|Échéance|الأجل
+nc.generated|Généré le|تاريخ الإنشاء
+nc.hold|Blocage préventif|حظر وقائي
+nc.holdConfirm|Je confirme avoir le pouvoir de décision pour ce blocage.|أؤكد أنني أملك صلاحية القرار لهذا الحظر.
+nc.holdDone|Blocage préventif appliqué|تم تطبيق الحظر الوقائي
+nc.holdPlanned|Expéditions planifiées à revoir|شحنات مخططة تلزم مراجعتها
+nc.holdResult|Lots matières bloqués|دفعات المواد المحظورة
+nc.holdResultB|Lots finis bloqués|الدفعات النهائية المحظورة
+nc.holdScope|Portée|النطاق
+nc.holdWarn|Le lot suspect et tous les lots finis concernés passeront en « Bloqué » ; les sociétés destinataires seront notifiées ; la page QR publique affichera « en cours de vérification ». La décision finale de retrait/rappel reste de la responsabilité du responsable qualité.|ستتحول الدفعة المشتبه بها وكل الدفعات النهائية المعنية إلى «محظور»، وستُخطَر الشركات المستلمة، وستعرض صفحة QR العامة «قيد التحقق». يبقى قرار السحب/الاسترجاع النهائي من مسؤولية مسؤول الجودة.
+nc.holdWarnTitle|Action réelle, pas une simulation|إجراء فعلي وليس محاكاة
+nc.investigate|Lancer l'enquête|بدء التحقيق
+nc.kind|Type de lot|نوع الدفعة
+nc.markDone|Terminée|منجزة
+nc.new|Nouvelle non-conformité|حالة عدم مطابقة جديدة
+nc.noSimYet|Aucune simulation enregistrée.|لا توجد محاكاة مسجَّلة.
+nc.none|Aucune non-conformité|لا توجد حالات عدم مطابقة
+nc.printSim|Imprimer|طباعة
+nc.report|Rapport|تقرير
+nc.reportDisclaimer|Document d'aide à la décision. Il ne remplace pas l'avis du responsable qualité ni les obligations déclaratives auprès des autorités compétentes.|وثيقة مساعدة على القرار. لا تغني عن رأي مسؤول الجودة ولا عن الالتزامات التصريحية لدى السلطات المختصة.
+nc.reportTitle|Rapport de non-conformité|تقرير عدم المطابقة
+nc.reportedBy|Déclarée par|صرّح بها
+nc.rerun|Relancer|إعادة التشغيل
+nc.responsible|Responsable|المسؤول
+nc.runSim|Lancer la simulation|بدء المحاكاة
+nc.severity|Gravité|الخطورة
+nc.simDone|Simulation calculée — aucun stock ni statut modifié|تم احتساب المحاكاة — لم يتغير أي مخزون أو حالة
+nc.simEmpty|Aucune simulation lancée dans cette session.|لم تُشغَّل أي محاكاة في هذه الجلسة.
+nc.simHistory|Historique|السجل
+nc.simSub|Identifie lots finis, expéditions, sites et quantités concernés à partir des mouvements enregistrés. La simulation ne modifie rien.|تحدّد الدفعات والشحنات والمواقع والكميات المعنية انطلاقًا من الحركات المسجَّلة. المحاكاة لا تغيّر شيئًا.
+nc.simTitle|Enquête de traçabilité & simulation de rappel|تحقيق التتبّع ومحاكاة الاسترجاع
+nc.start|Démarrer|بدء
+nc.sub|Non-conformités, enquête de traçabilité, simulation de rappel et actions correctives/préventives.|حالات عدم المطابقة وتحقيق التتبّع ومحاكاة الاسترجاع والإجراءات التصحيحية/الوقائية.
+nc.target|Concerne|المعني
+nc.title|Titre|العنوان
+notif.all|Voir tout|عرض الكل
+notif.markAll|Tout marquer comme lu|تعليم الكل كمقروء
+notif.none|Aucune notification|لا توجد إشعارات
+notif.read|Lu|مقروء
+orders.makeBatch|Créer le lot|إنشاء الدفعة
+orders.new|Nouvel ordre de fabrication|أمر إنتاج جديد
+orders.planned|Prévu|المخطَّط
+orders.sub|Ordres de fabrication planifiés. Créez ensuite le lot fini depuis l'ordre.|أوامر إنتاج مخططة. أنشئ بعدها دفعة المنتج النهائي من الأمر.
+prof.certDeclared|Certification déclarée — en attente de vérification|تم التصريح بالشهادة — بانتظار التحقق
+prof.certs|Certifications|الشهادات
+prof.certsSub|Affichées au public uniquement après vérification par la plateforme.|لا تُعرض للعموم إلا بعد تحقق المنصة منها.
+prof.company|Profil de l'entreprise|ملف المؤسسة
+prof.current|Actuel|الحالية
+prof.declare|Déclarer|تصريح
+prof.history|Histoire de l'entreprise (page QR)|تاريخ المؤسسة (صفحة QR)
+prof.password|Mot de passe|كلمة المرور
+prof.publicDesc|Présentation publique (page QR)|التقديم العام (صفحة QR)
+prof.pwChanged|Mot de passe changé — reconnexion nécessaire|تم تغيير كلمة المرور — يلزم تسجيل الدخول من جديد
+prof.readonly|Seul l'administrateur de la société peut modifier ce profil.|يمكن لمسؤول الشركة وحده تعديل هذا الملف.
+prof.team|Équipe|الفريق
+prof.website|Site web|الموقع الإلكتروني
+promo.discount|Remise (%)|التخفيض (%)
+promo.end|Fin|النهاية
+promo.period|Période|الفترة
+promo.prodHint|Produits déjà reçus par votre société.|منتجات سبق أن استلمتها شركتكم.
+promo.start|Début|البداية
+promo.stop|Arrêter|إيقاف
+promo.store|Magasin|المتجر
+promo.sub|Les promotions actives apparaissent sur la page QR des produits concernés disponibles dans votre magasin.|تظهر العروض النشطة في صفحة QR للمنتجات المعنية المتوفرة في متجركم.

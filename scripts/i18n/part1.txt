@@ -1,0 +1,210 @@
+admin.action|Action|الإجراء
+admin.allTypes|Tous les types|كل الأنواع
+admin.approve|Approuver|قبول
+admin.auditSub|Journal d'audit en ajout seul de toutes les actions sensibles.|سجل تدقيق للإضافة فقط يوثّق جميع الإجراءات الحساسة.
+admin.certSub|Seules les certifications vérifiées sont affichées aux consommateurs. Contrôlez le document original auprès de l'organisme certificateur avant de valider.|لا تُعرض للمستهلكين إلا الشهادات الموثَّقة. تحقّق من الوثيقة الأصلية لدى هيئة المنح قبل التصديق.
+admin.compSub|Approbation, suspension et suivi des sociétés inscrites.|قبول الشركات المسجَّلة وتعليقها ومتابعتها.
+admin.company|Société|الشركة
+admin.entity|Entité (ex. MaterialLot)|الكيان (مثل MaterialLot)
+admin.lastLogin|Dernière connexion|آخر دخول
+admin.offersSub|Supervision de l'espace fournisseurs.|الإشراف على فضاء الموردين.
+admin.pause|Suspendre l'offre|تعليق العرض
+admin.reactivate|Réactiver|إعادة التفعيل
+admin.reason|Motif (conservé dans l'audit)|السبب (يُحفظ في سجل التدقيق)
+admin.registered|Inscrite le|تاريخ التسجيل
+admin.reject|Refuser|رفض
+admin.suspend|Suspendre|تعليق
+admin.toVerify|À vérifier|للتحقق
+admin.unverify|Retirer|سحب التوثيق
+admin.user|Utilisateur|المستخدم
+admin.users|Utilisateurs|المستخدمون
+admin.usersSub|Comptes professionnels. Les comptes consommateurs ne sont volontairement pas affichés.|حسابات المهنيين. حسابات المستهلكين غير معروضة عمدًا.
+admin.verified|Vérifiées|موثَّقة
+admin.verify|Vérifier|توثيق
+auth.admin|Administrateur du compte|مسؤول الحساب
+auth.backHome|Page consommateur|صفحة المستهلك
+auth.company|Entreprise|المؤسسة
+auth.companyEmail|E-mail de l'entreprise|البريد الإلكتروني للمؤسسة
+auth.companyType|Type d'entreprise|نوع المؤسسة
+auth.create|Créer mon compte|إنشاء حسابي
+auth.demo|Comptes de démonstration (mode développement)|حسابات تجريبية (وضع التطوير)
+auth.demoHint|Remplit l'e-mail et le mot de passe par défaut du seed (SEED_DEMO_PASSWORD).|يملأ البريد وكلمة المرور الافتراضية للبيانات التجريبية (SEED_DEMO_PASSWORD).
+auth.displayName|Nom affiché|الاسم المعروض
+auth.dz|Conçu pour les entreprises agroalimentaires algériennes|مصمَّم للمؤسسات الغذائية الجزائرية
+auth.forgot|Mot de passe oublié ?|هل نسيت كلمة المرور؟
+auth.forgotSent|Si cette adresse existe, un lien a été envoyé. En installation locale, le lien/jeton s'affiche dans la console du serveur.|إذا كان العنوان موجودًا فقد أُرسل رابط. في التثبيت المحلي يظهر الرمز في نافذة الخادم.
+auth.forgotSub|Saisissez votre e-mail pour recevoir un lien de réinitialisation.|أدخل بريدك الإلكتروني لتلقي رابط إعادة التعيين.
+auth.fullName|Nom complet|الاسم الكامل
+auth.haveAccount|J'ai déjà un compte|لدي حساب بالفعل
+auth.haveToken|J'ai déjà un jeton|لدي رمز بالفعل
+auth.hero|De la ferme au consommateur : une traçabilité fiable, lot par lot.|من المزرعة إلى المستهلك: تتبّع موثوق دفعة بدفعة.
+auth.heroSub|Réception, contrôle qualité, production, expédition, rappel : tout le parcours de vos produits laitiers dans une seule plateforme.|الاستلام ومراقبة الجودة والإنتاج والشحن والاسترجاع: كل مسار منتجاتكم الحليبية في منصة واحدة.
+auth.login|Connexion|تسجيل الدخول
+auth.loginSub|Accédez à votre espace professionnel ou consommateur.|ادخل إلى فضائك المهني أو فضاء المستهلك.
+auth.logout|Déconnexion|تسجيل الخروج
+auth.newPassword|Nouveau mot de passe|كلمة مرور جديدة
+auth.noAccount|Pas encore de compte ?|ليس لديك حساب بعد؟
+auth.password|Mot de passe|كلمة المرور
+auth.pwdHint|10 caractères min., lettres et chiffres|10 أحرف على الأقل، حروف وأرقام
+auth.rc|N° registre de commerce|رقم السجل التجاري
+auth.regCompany|Inscrire mon entreprise|تسجيل مؤسستي
+auth.regCompanySub|Fabricant, fournisseur, transporteur, distributeur ou point de vente.|مصنّع أو مورّد أو ناقل أو موزّع أو نقطة بيع.
+auth.regConsumer|Je suis consommateur|أنا مستهلك
+auth.regConsumerSub|Optionnel : suivez vos signalements et vos avis.|اختياري: تابع بلاغاتك وآراءك.
+auth.regDone|Demande envoyée|تم إرسال الطلب
+auth.regDoneMsg|Votre entreprise doit être approuvée par un administrateur de la plateforme avant utilisation. Vous pourrez vous connecter ; l'accès aux fonctions métier s'ouvrira après approbation.|يجب أن يوافق مسؤول المنصة على مؤسستك قبل الاستخدام. يمكنك تسجيل الدخول، وتُفتح الوظائف المهنية بعد الموافقة.
+auth.reset|Nouveau mot de passe|كلمة مرور جديدة
+auth.sendLink|Envoyer le lien|إرسال الرابط
+auth.sendRequest|Envoyer la demande|إرسال الطلب
+auth.token|Jeton de réinitialisation|رمز إعادة التعيين
+batches.addLot|Ajouter un lot|إضافة دفعة
+batches.addStep|Ajouter une étape|إضافة مرحلة
+batches.applyRecipe|Proposer (FEFO)|اقتراح (FEFO)
+batches.chooseLot|Choisir un lot…|اختر دفعة…
+batches.create|Créer le lot fini|إنشاء دفعة المنتج النهائي
+batches.created|Lot fini créé — en attente de contrôle qualité|تم إنشاء الدفعة — بانتظار مراقبة الجودة
+batches.factory|Site de production|موقع الإنتاج
+batches.general|Produit fini|المنتج النهائي
+batches.insufficient|Stock libéré insuffisant pour|المخزون المحرَّر غير كافٍ لـ
+batches.materials|Matières premières consommées|المواد الأولية المستهلكة
+batches.materialsSub|Un lot fini peut consommer plusieurs lots ; un lot peut alimenter plusieurs lots finis.|قد تستهلك دفعة نهائية عدة دفعات مواد، وقد تغذّي دفعة مادة عدة دفعات نهائية.
+batches.needLot|Au moins un lot de matière première|دفعة مادة أولية واحدة على الأقل
+batches.new|Nouveau lot fini|دفعة منتج نهائي جديدة
+batches.newSub|Seuls les lots de matières LIBÉRÉS, non périmés et en quantité suffisante peuvent être consommés (contrôlé par le serveur).|لا يمكن استهلاك إلا دفعات المواد المحرَّرة وغير المنتهية وبكمية كافية (يتحقق الخادم من ذلك).
+batches.noReleased|Aucun lot de matière première libéré. Contrôlez et libérez d'abord les lots reçus.|لا توجد دفعة مادة أولية محرَّرة. راقب الدفعات المستلمة وحرّرها أولًا.
+batches.noStock|Pas de stock (le lot doit être libéré).|لا مخزون (يجب تحرير الدفعة).
+batches.number|N° de lot fini|رقم دفعة المنتج النهائي
+batches.produced|Produit le|تاريخ الإنتاج
+batches.producedAt|Date et heure de production|تاريخ ووقت الإنتاج
+batches.recipe|Recette…|الوصفة…
+batches.recipeApplied|Lots proposés selon FEFO — vérifiez avant d'enregistrer.|تم اقتراح الدفعات وفق FEFO — تحقق قبل الحفظ.
+batches.recipeNeedQty|Choisissez une recette et saisissez la quantité produite.|اختر وصفة وأدخل الكمية المنتجة.
+batches.releasedAt|Libéré le|تاريخ التحرير
+batches.search|N° de lot fini|رقم دفعة المنتج النهائي
+batches.shelf|Durée de vie produit|مدة صلاحية المنتج
+batches.stepName|Étape|المرحلة
+batches.steps|Étapes et conditions de production|مراحل الإنتاج وشروطه
+batches.stepsHint|Facultatif (ex. pasteurisation, ensemencement, fermentation). Les noms d'étapes sont visibles du consommateur ; pas les températures.|اختياري (مثل البسترة والتلقيح والتخمير). أسماء المراحل ظاهرة للمستهلك دون درجات الحرارة.
+batches.stock|Stock par site|المخزون حسب الموقع
+batches.sub|Lots de produits finis et leurs matières premières.|دفعات المنتجات النهائية ومواردها الأولية.
+cert.issuer|Organisme|الهيئة المانحة
+cert.validFrom|Valide depuis|صالحة منذ
+cert.validTo|Valide jusqu'au|صالحة حتى
+common.allStatus|Tous les statuts|كل الحالات
+common.cancel|Annuler|إلغاء
+common.close|Fermer|إغلاق
+common.confirm|Confirmer|تأكيد
+common.done|Fait|تم
+common.edit|Modifier|تعديل
+common.empty|Aucun élément|لا توجد عناصر
+common.emptyHint|Ajoutez votre premier élément avec le bouton « Nouveau ».|أضف أول عنصر بزر «جديد».
+common.loadError|Impossible de charger les données|تعذّر تحميل البيانات
+common.new|Nouveau|جديد
+common.next|Suivant|التالي
+common.pageOf|Page {{page}} / {{pages}} — {{total}} résultats|الصفحة {{page}} / {{pages}} — {{total}} نتيجة
+common.prev|Précédent|السابق
+common.required|Champ obligatoire|حقل إلزامي
+common.retry|Réessayer|إعادة المحاولة
+common.save|Enregistrer|حفظ
+common.saved|Enregistré|تم الحفظ
+common.search|Rechercher…|بحث…
+common.seeAll|Voir tout|عرض الكل
+common.uploading|Envoi…|جارٍ الإرسال…
+common.yes|Oui|نعم
+cons.age|Âge|العمر
+cons.feedback|Mes avis et signalements|آرائي وبلاغاتي
+cons.noFeedback|Rien pour l'instant|لا شيء حتى الآن
+cons.noFeedbackHint|Scannez un QR code produit pour laisser un avis ou signaler un problème.|امسح رمز QR لمنتج لترك رأي أو الإبلاغ عن مشكلة.
+cons.profile|Mon profil (facultatif)|ملفي الشخصي (اختياري)
+cons.showName|Afficher mon nom avec mes avis|إظهار اسمي مع آرائي
+cp.handle|Traiter|معالجة
+cp.notes|Notes internes|ملاحظات داخلية
+cp.safetyHint|Signalement sanitaire : envisagez d'ouvrir une non-conformité sur le lot concerné.|بلاغ صحي: فكّر في فتح حالة عدم مطابقة للدفعة المعنية.
+cp.sub|Avis, questions et signalements reçus via les QR codes de vos lots.|آراء وأسئلة وبلاغات واردة عبر رموز QR لدفعاتكم.
+dash.activeCompanies|Sociétés actives|الشركات النشطة
+dash.admin|Tableau de bord — Super administrateur|لوحة التحكم — المشرف العام
+dash.adminSub|Supervision de la plateforme. Les données privées des consommateurs et des sociétés ne sont pas exposées ici.|الإشراف على المنصة. لا تُعرض هنا البيانات الخاصة بالمستهلكين والشركات.
+dash.alerts|Alertes récentes|آخر التنبيهات
+dash.assigned|Expéditions|الشحنات
+dash.batchStatus|Lots finis par statut|الدفعات النهائية حسب الحالة
+dash.batchesToControl|Lots finis à contrôler|دفعات نهائية للمراقبة
+dash.blocked|Lots finis bloqués|دفعات نهائية محظورة
+dash.blockedInStock|Lots bloqués en stock|دفعات محظورة في المخزون
+dash.blockedInStockMsg|Des lots en stock ont été bloqués par le fabricant. Retirez-les de la vente.|حظر المصنّع دفعات موجودة في مخزونكم. اسحبوها من البيع.
+dash.byType|Sociétés par type|الشركات حسب النوع
+dash.distributor|Tableau de bord — Distribution|لوحة التحكم — التوزيع
+dash.expiryAlerts|Alertes de péremption (FEFO)|تنبيهات انتهاء الصلاحية (FEFO)
+dash.incoming|Livraisons entrantes|الشحنات الواردة
+dash.live|Données en temps réel de votre société.|بيانات شركتكم في الوقت الفعلي.
+dash.lotsToControl|Lots matières à contrôler|دفعات مواد للمراقبة
+dash.manufacturer|Tableau de bord — Fabricant|لوحة التحكم — المصنّع
+dash.myOffers|Mes offres|عروضي
+dash.noAlerts|Aucune alerte en cours.|لا توجد تنبيهات حاليًا.
+dash.noExpiry|Aucune alerte.|لا توجد تنبيهات.
+dash.noIncoming|Aucune livraison en cours.|لا توجد شحنات جارية.
+dash.noPending|Aucune demande en attente.|لا توجد طلبات قيد الانتظار.
+dash.noProd|Aucune production sur la période.|لا إنتاج خلال الفترة.
+dash.none|Aucun tableau de bord pour ce profil|لا توجد لوحة تحكم لهذا الملف
+dash.nothing|Rien à traiter.|لا شيء للمعالجة.
+dash.openNc|Non-conformités ouvertes|حالات عدم مطابقة مفتوحة
+dash.pendingCompanies|Sociétés en attente|شركات قيد الانتظار
+dash.pendingRequests|Demandes d'inscription|طلبات التسجيل
+dash.proUsers|Utilisateurs professionnels|المستخدمون المهنيون
+dash.production30|Production — 30 derniers jours|الإنتاج — آخر 30 يومًا
+dash.qty|Quantité|الكمية
+dash.quality|Tableau de bord — Qualité|لوحة التحكم — الجودة
+dash.qualitySub|Contrôles, non-conformités, lots bloqués et outils de prévention.|المراقبة وحالات عدم المطابقة والدفعات المحظورة وأدوات الوقاية.
+dash.recallSim|Simulation de rappel|محاكاة الاسترجاع
+dash.recent|Activité récente|النشاط الأخير
+dash.recentRequests|Dernières demandes reçues|آخر الطلبات الواردة
+dash.retail|Tableau de bord — Point de vente|لوحة التحكم — نقطة البيع
+dash.stockProduct|Stock par produit|المخزون حسب المنتج
+dash.supplier|Tableau de bord — Fournisseur|لوحة التحكم — المورّد
+dash.suspended|Sociétés suspendues|الشركات الموقوفة
+dash.tools|Outils de prévention|أدوات الوقاية
+dash.transport|Tableau de bord — Transport|لوحة التحكم — النقل
+doc.attach|Joindre un document (PDF / image)|إرفاق وثيقة (PDF / صورة)
+doc.tooBig|Fichier trop volumineux (max 10 Mo)|الملف كبير جدًا (10 ميغابايت كحد أقصى)
+doc.uploaded|Document ajouté|تمت إضافة الوثيقة
+f.address|Adresse|العنوان
+f.approved|Approuvé|معتمد
+f.batch|Lot|الدفعة
+f.category|Catégorie|الفئة
+f.city|Ville|المدينة
+f.code|Code|الرمز
+f.contact|Contact|جهة الاتصال
+f.description|Description interne|الوصف الداخلي
+f.email|E-mail|البريد الإلكتروني
+f.hours|Horaires d'ouverture|ساعات العمل
+f.internalLot|Lot interne|الدفعة الداخلية
+f.limits|Limites|الحدود
+f.linked|Société liée|الشركة المرتبطة
+f.linkedCompany|Société transporteur inscrite|شركة النقل المسجَّلة
+f.lot|Lot|الدفعة
+f.mandatory|Obligatoire|إلزامي
+f.max|Max|الأقصى
+f.mfgSummary|Résumé de fabrication (public)|ملخص التصنيع (عام)
+f.min|Min|الأدنى
+f.name|Nom|الاسم
+f.notes|Notes|ملاحظات
+f.phone|Téléphone|الهاتف
+f.product|Produit|المنتج
+f.publicDescription|Description publique (consommateurs)|وصف عام (للمستهلكين)
+f.publicListing|Visible des consommateurs|ظاهر للمستهلكين
+f.quantity|Quantité|الكمية
+f.refrigerated|Réfrigéré|مبرَّد
+f.scope|Portée|النطاق
+f.shelfLife|Durée de vie (jours)|مدة الصلاحية (أيام)
+f.sku|Référence|المرجع
+f.status|Statut|الحالة
+f.storage|Stockage|التخزين
+f.type|Type|النوع
+f.unit|Unité|الوحدة
+f.vehicle|Véhicule|المركبة
+f.wilaya|Wilaya|الولاية
+gate.blocked|Compte non actif|الحساب غير نشط
+gate.blockedMsg|Votre entreprise est suspendue ou refusée. Contactez l'administrateur de la plateforme.|مؤسستكم موقوفة أو مرفوضة. اتصلوا بمسؤول المنصة.
+gate.denied|Accès non autorisé|وصول غير مصرَّح به
+gate.deniedMsg|Votre rôle n'a pas accès à cette page.|دوركم لا يتيح الوصول إلى هذه الصفحة.
+gate.pending|Compte en attente d'approbation|الحساب بانتظار الموافقة
+gate.pendingMsg|Un administrateur de la plateforme doit approuver votre entreprise. Revenez plus tard.|يجب أن يوافق مسؤول المنصة على مؤسستكم. عودوا لاحقًا.

@@ -1,0 +1,2 @@
+rec.addLot|Ajouter un lot|إضافة دفعة
+ship.created|Expédition planifiée — stock réservé|تم تخطيط الشحنة — المخزون محجوز

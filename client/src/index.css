@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 244 246 249; --card: 255 255 255; --fg: 17 24 39; --muted: 241 243 246; --mutedfg: 100 110 125; --line: 223 227 233;
+  --navy: 15 42 74; --navyfg: 226 234 245; --brand: 5 150 105; --brandfg: 255 255 255;
+  --danger: 220 38 38; --warn: 217 119 6; --ok: 5 150 105; --info: 37 99 235;
+}
+.dark {
+  --bg: 10 16 28; --card: 18 27 44; --fg: 232 237 245; --muted: 28 39 60; --mutedfg: 148 161 182; --line: 40 54 80;
+  --navy: 8 18 34; --navyfg: 200 214 233; --brand: 16 185 129; --brandfg: 6 20 15;
+  --danger: 248 113 113; --warn: 251 191 36; --ok: 52 211 153; --info: 96 165 250;
+}
+html { color-scheme: light; }
+html.dark { color-scheme: dark; }
+body { @apply bg-bg text-fg font-sans antialiased; }
+:focus-visible { outline: 2px solid rgb(var(--brand)); outline-offset: 2px; }
+input[type='number'] { -moz-appearance: textfield; }
+.skeleton { @apply animate-pulse rounded-md bg-muted; }
+
+/* Print: only the element marked .print-area (QR labels, incident report) is printed */
+@media print {
+  body * { visibility: hidden; }
+  .print-area, .print-area * { visibility: visible; }
+  .print-area { position: absolute; inset: 0; padding: 16px; background: white; color: black; }
+  .no-print { display: none !important; }
+}

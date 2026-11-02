@@ -1,0 +1,29 @@
+{
+  "name": "tracefood-dz",
+  "version": "0.2.0",
+  "private": true,
+  "description": "TraceFood DZ \u2014 food traceability, quality & food-safety risk prevention platform",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "setup": "npm run db:generate -w server && npm run db:push -w server && npm run db:seed -w server",
+    "dev": "concurrently -k -n api,web -c blue,green \"npm run dev -w server\" \"npm run dev -w client\"",
+    "dev:server": "npm run dev -w server",
+    "dev:client": "npm run dev -w client",
+    "build": "npm run build -w client",
+    "build:server": "npm run build -w server",
+    "typecheck": "npm run typecheck -w client",
+    "test": "npm run test -w server",
+    "test:e2e": "npm run test:e2e -w server",
+    "check:contract": "python scripts/check-contract.py",
+    "i18n": "python scripts/i18n/gen.py"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
