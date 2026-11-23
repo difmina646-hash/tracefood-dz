@@ -20,7 +20,8 @@ export default defineConfig({
   },
   preview: {
     port: 5173,
-    host: true,
+    host: '0.0.0.0',
+    allowedHosts: ['fearless-unity-production-0a97d590.up.railway.app'],
     proxy: {
       '/api': {
         target: apiTarget,
